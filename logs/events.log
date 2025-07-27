@@ -1,0 +1,58 @@
+Fri Mar  1 06:34:15 2024  -  Modbus -> Socket successfully open
+Fri Mar  1 06:34:15 2024  -  Modbus -> Socket connection successfull
+Fri Mar  1 06:34:16 2024  -  Message published to broker
+Fri Mar  1 06:44:39 2024  -  Modbus -> Socket successfully open
+Fri Mar  1 06:44:39 2024  -  Modbus -> Socket connection successfull
+Fri Mar  1 06:44:40 2024  -  MQTT Client -> Message published to broker
+Fri Mar  1 06:46:38 2024  -  Modbus -> Socket successfully open
+Fri Mar  1 06:46:38 2024  -  Modbus -> Socket connection successfull
+Fri Mar  1 06:47:13 2024  -  Modbus -> Socket successfully open
+Fri Mar  1 06:47:13 2024  -  Modbus -> Socket connection successfull
+Fri Mar  1 06:49:19 2024  -  Modbus -> Socket successfully open
+Fri Mar  1 06:49:19 2024  -  Modbus -> Socket connection successfull
+Fri Mar  1 06:51:39 2024  -  Modbus -> Socket successfully open
+Fri Mar  1 06:51:39 2024  -  Modbus -> Socket connection successfull
+Fri Mar  1 06:52:55 2024  -  Modbus -> Socket successfully open
+Fri Mar  1 06:52:55 2024  -  Modbus -> Socket connection successfull
+Fri Mar  1 06:53:15 2024  -  Modbus -> Socket successfully open
+Fri Mar  1 06:53:15 2024  -  Modbus -> Socket connection successfull
+Fri Mar  1 06:53:22 2024  -  Modbus -> Socket successfully open
+Fri Mar  1 06:53:22 2024  -  Modbus -> Socket connection successfull
+Fri Mar  1 06:53:23 2024  -  MQTT Client -> Message published to broker
+Fri Mar  1 06:53:53 2024  -  Modbus -> Socket successfully open
+Fri Mar  1 06:53:53 2024  -  Modbus -> Socket connection successfull
+Fri Mar  1 06:56:04 2024  -  Modbus -> Socket successfully open
+Fri Mar  1 06:56:04 2024  -  Modbus -> Socket connection successfull
+Fri Mar  1 06:57:32 2024  -  Modbus -> Socket successfully open
+Fri Mar  1 06:57:32 2024  -  Modbus -> Socket connection successfull
+Fri Mar  1 06:58:03 2024  -  Modbus -> Socket successfully open
+Fri Mar  1 06:58:03 2024  -  Modbus -> Socket connection successfull
+Fri Mar  1 06:58:03 2024  -  Value inserted
+Fri Mar  1 06:58:03 2024  -  Value inserted
+Fri Mar  1 06:58:03 2024  -  Value inserted
+Fri Mar  1 06:58:03 2024  -  Value inserted
+Fri Mar  1 07:00:16 2024  -  Modbus -> Socket successfully open
+Fri Mar  1 07:00:16 2024  -  Modbus -> Socket connection successfull
+Fri Mar  1 07:00:16 2024  -  SQLITE3 DB -> Value 34.10 Inserted succesfully into TT001
+Fri Mar  1 07:00:16 2024  -  SQLITE3 DB -> Value 11.23 Inserted succesfully into PT001
+Fri Mar  1 07:00:16 2024  -  SQLITE3 DB -> Value 53.65 Inserted succesfully into FT001
+Fri Mar  1 07:00:16 2024  -  SQLITE3 DB -> Value 1958.60 Inserted succesfully into LT001
+Fri Mar  1 07:00:49 2024  -  Modbus -> Socket successfully open
+Fri Mar  1 07:00:49 2024  -  Modbus -> Socket connection successfull
+Fri Mar  1 07:00:50 2024  -  MQTT Client -> Message published to broker
+Fri Mar  1 07:00:50 2024  -  MQTT Client -> Publish result: Success
+Fri Mar  1 07:00:50 2024  -  SQLITE3 DB -> Value 34.10 Inserted succesfully into TT001
+Fri Mar  1 07:00:50 2024  -  MQTT Client -> Message published to broker
+Fri Mar  1 07:00:50 2024  -  MQTT Client -> Publish result: Success
+Fri Mar  1 07:00:50 2024  -  SQLITE3 DB -> Value 11.23 Inserted succesfully into PT001
+Fri Mar  1 07:00:51 2024  -  MQTT Client -> Message published to broker
+Fri Mar  1 07:00:51 2024  -  MQTT Client -> Publish result: Success
+Fri Mar  1 07:00:51 2024  -  SQLITE3 DB -> Value 53.65 Inserted succesfully into FT001
+Fri Mar  1 07:00:51 2024  -  MQTT Client -> Message published to broker
+Fri Mar  1 07:00:51 2024  -  MQTT Client -> Publish result: Success
+Fri Mar  1 07:00:51 2024  -  SQLITE3 DB -> Value 1958.60 Inserted succesfully into LT001
+Fri Mar  1 15:51:42 2024  -  MQTT Client -> Connection lost, cause: (null)
+Fri Mar  1 16:08:04 2024  -  Any data received
+Fri Mar  1 16:08:05 2024  -  Any data received
+Fri Mar  1 16:08:06 2024  -  Any data received
+Fri Mar  1 16:08:07 2024  -  Modbus -> Retries reached, leaving connection...
